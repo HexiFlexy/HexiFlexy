@@ -14,3 +14,4 @@ Much of my work lives in private repositories. You can explore these projects an
 
 - 🌐 [Portfolio](https://ambroseyeung.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ambrose-y/)
+- ✉️ [Email](mailto:ambroseyg@gmail.com)
