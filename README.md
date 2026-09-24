@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ambrose Yeung 👋
 
-<!--
-**HexiFlexy/HexiFlexy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a design engineer who designs and builds products at the intersection of software, design, and business. I care about how things work, how they feel, and why people want to use them.
 
-Here are some ideas to get you started:
+## Selected work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Unimatch](https://ambroseyeung.com/project/unimatch)** — A university-exclusive dating and social connection app. Co-founder and product lead.
+- **[Avia](https://ambroseyeung.com/project/avia)** — A native macOS command launcher built with SwiftUI.
+- **[Winespot](https://ambroseyeung.com/project/winespot)** — A digital commerce experience for a wine storage brand.
+
+Much of my work lives in private repositories. You can explore these projects and my role in them on my portfolio.
+
+## Connect
+
+- 🌐 [Portfolio](https://ambroseyeung.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ambrose-y/)
